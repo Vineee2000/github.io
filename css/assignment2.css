@@ -148,7 +148,7 @@ nav ul {
 }
 nav ul li {
 	border-bottom: 3px solid rgb(0, 157, 185);
-	font-size: 2vw;
+	font-size: 2.5em;
 	font-family: sans-serif;
 }
 li a {
